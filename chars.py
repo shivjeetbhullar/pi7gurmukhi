@@ -16,7 +16,7 @@ def Fix_0a3f(Gurmukhi_string):
      if x[char_count].isalnum():x = x[:char_count]+'\u0a3f'+x[char_count:]
      char_list.append(x)
     else:char_list.append(x)
-   return "".join(char_list)
+  return "".join(char_list)
 
 def Fix_chars(G_string):
   for x in chars:G_string=G_string.replace(x,chars[x])
