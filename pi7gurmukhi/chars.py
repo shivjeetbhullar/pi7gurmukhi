@@ -2,7 +2,7 @@ chars = {
   u"\u0a4d\u0a30":u"\u0A0B",
   u"\u0a4d\u0a35":u"\u0A00",
   u"\u0a4d\u0a39":u"\u0a11",
-  u"\u0a4d\u0a2f":u"\u0204"
+  u"\u0a4d\u0a2f":u"\u0a04"
 }
 
 def Fix_0a3f(Gurmukhi_string):

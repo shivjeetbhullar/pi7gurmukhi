@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="pi7gurmukhi", 
-    version="0.1.0",
+    version="0.1.3",
     author="Shivjeet Singh Bhullar",
     author_email="bhullarshivjeet@gmail.com",
     description="Helpful In Write Correct Punjabi/Gurmukhi On Images, Pdf, Kivy & Others.",
